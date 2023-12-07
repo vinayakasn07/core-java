@@ -65,8 +65,8 @@ return value;
 
 static boolean result()
 {
-boolean value=true;
-return value;
+boolean pass=true;
+return pass;
 
 }
 
