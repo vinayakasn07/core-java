@@ -15,12 +15,12 @@ for(int s=0; s<20; s++)
 {
 System.out.println(v[s]);
 System.out.println(i[s]);
-System.out.println(a[s]);
+System.out.println(n[s]);
 System.out.println(a[s]);
 System.out.println(y[s]);
-System.out.println(a[s]);
+System.out.println(b[s]);
 System.out.println(k[s]);
-System.out.println(a[s]);
+System.out.println(z[s]);
 }
 }
 }
