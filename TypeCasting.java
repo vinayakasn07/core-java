@@ -14,25 +14,25 @@ System.out.println(add);
 System.out.println(sub);
 System.out.println(mul);
 
-long sum1=9517538462l;
-int num1=(int)sum1;
-short add1=(short)num1;
-byte sub1=(byte)add1;
-double div1=9.85632147d;
-float mul1=(float)div1;
+long run=9517538462l;
+int skip=(int)run;
+short jump=(short)skip;
+byte swim=(byte)jump;
+double act=9.85632147d;
+float drive=(float)act;
 
-System.out.println(num1);
-System.out.println(add1);
-System.out.println(sub1);
-System.out.println(mul1);
+System.out.println(skip);
+System.out.println(jump);
+System.out.println(swim);
+System.out.println(drive);
 
 char alphabet='A';
 int number=(int)alphabet;
 System.out.println(number);
 
-int number1=122;
-char alphabet1=(char)number1;
-System.out.println(alphabet1);
+int digits=122;
+char letters=(char)digits;
+System.out.println(letters);
 
 }
 }
